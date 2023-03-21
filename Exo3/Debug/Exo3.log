@@ -1,0 +1,12 @@
+﻿  Exo3.cpp
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(7,85): error C2664: 'Lieu::Lieu(std::string,std::string,int,std::string [])' : impossible de convertir l'argument 4 de 'initializer list' en 'std::string []'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(7,62): message : L'initialiseur contient trop d'éléments
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3_classLieu.h(17,2): message : voir la déclaration de 'Lieu::Lieu'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(8,90): error C2664: 'Lieu::Lieu(std::string,std::string,int,std::string [])' : impossible de convertir l'argument 4 de 'initializer list' en 'std::string []'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(8,66): message : L'initialiseur contient trop d'éléments
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3_classLieu.h(17,2): message : voir la déclaration de 'Lieu::Lieu'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(9,87): error C2664: 'Lieu::Lieu(std::string,std::string,int,std::string [])' : impossible de convertir l'argument 4 de 'initializer list' en 'std::string []'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3.cpp(9,67): message : L'initialiseur contient trop d'éléments
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Exo3\Exo3_classLieu.h(17,2): message : voir la déclaration de 'Lieu::Lieu'
+  Exo3_classLieu.cpp
+  Génération de code en cours...

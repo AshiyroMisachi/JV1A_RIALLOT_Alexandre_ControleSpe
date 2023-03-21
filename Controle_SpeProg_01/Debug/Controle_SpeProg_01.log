@@ -1,0 +1,6 @@
+﻿  Exo3_classLieu.cpp
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Controle_SpeProg_01\Exo3_classLieu.cpp(8,14): error C2600: 'Lieu::Lieu' : impossible de définir une fonction membre spéciale générée par le compilateur (doit être déclarée d'abord dans la classe)
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Controle_SpeProg_01\Exo3_classLieu.cpp(9,84): error C2511: 'Lieu::Lieu(std::string,std::string,int,std::string)' : impossible de trouver la fonction membre surchargée dans 'Lieu'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Controle_SpeProg_01\Exo3_classLieu.h(7): message : voir la déclaration de 'Lieu'
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Controle_SpeProg_01\Exo3_classLieu.cpp(9,91): error C2065: 'nom' : identificateur non déclaré
+C:\Users\a.riallot\Documents\GitHub\Spe_Prog\Controle_SpeProg_01\Exo3_classLieu.cpp(9,151): error C2550: 'Lieu::{ctor}' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
